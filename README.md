@@ -1,5 +1,5 @@
 # Stock-Sentiment-Analysis-
-This project scrapes headlines from finviz and performs sentiment analysis on AMZN, FB, GOOGL, TSLA, and MSFT to output a graph, allowing the user to visualize how their stock performes for a given week.
+This project scrapes headlines from finviz and performs sentiment analysis on AMZN, FB, GOOGL, TSLA, and MSFT to output a graph, allowing the user to visualize how their stock performs for a given week.
 
 
 # Output
